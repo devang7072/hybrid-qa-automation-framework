@@ -49,9 +49,9 @@ It supports **UI, API, and Database validations**, following best practices like
 1. **Clone the Repository:**
 
    ```bash
-   git clone https://github.com/devangrabari707/hybrid-qa-automation-framework.git
+   git clone https://github.com/devang7072/hybrid-qa-automation-framework.git
    # or
-   git clone git@github.com:devangrabari707/hybrid-qa-automation-framework.git
+   git clone git@github.com:devang7072/hybrid-qa-automation-framework.git
    ```
 
 2. **Run Tests:**
@@ -225,4 +225,4 @@ Use with Selenium Grid for remote browsers.
 ## Contact & Credits
 - Maintained by: Bhumbhaliya Devang Babubhai
 - Email: devangrabari707@gmail.com
-- GitHub: [GitHub: devangrabari707](https://github.com/devangrabari707)
+- GitHub: [GitHub: devang7072](https://github.com/devang7072)
